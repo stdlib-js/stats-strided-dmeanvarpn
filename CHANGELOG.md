@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`625686b`](https://github.com/stdlib-js/stdlib/commit/625686b7ac03c5bf31b5b46b9f7497fd1128241a) - **refactor:** update paths _(by Gururaj Gurram)_
 -   [`424afa0`](https://github.com/stdlib-js/stdlib/commit/424afa0b52647777021656a290edbc24a3176894) - **refactor:** update paths _(by Gururaj Gurram)_
 -   [`4307e05`](https://github.com/stdlib-js/stdlib/commit/4307e05b7a0904672bc13e831fe9b2f3aa1ef14e) - **feat:** add `stats/strided/dmeanvarpn` _(by Gururaj Gurram)_
 
